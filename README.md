@@ -1,1 +1,1 @@
-* in name only.
+\* in name only.
